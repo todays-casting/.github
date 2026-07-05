@@ -237,7 +237,7 @@ User Data / Record Data / Card Data / Favorite Data
 
 | 구분      | 이름  | 역할           | GitHub    |
 | ------- | --- | ------------ | --------- |
-| PM / FE / BE | 이관형 | 기획 / Backend | e2guana   |
+| PM / FE / BE | 이관형 | 기획 / Frontend / Backend | e2guana   |
 | FE      | 김예나 | Frontend     | kimyena123 |
 | BE      | 김민수 | Frontend     | betts |
 | BE      | 박준형 | Backend      | junhyung29 |
