@@ -125,9 +125,9 @@ AI가 매일 다른 장르와 캐릭터 콘셉트를 제공하여
 | ------- | --- | ------------ | --------- |
 | PM / FE / BE | 이관형 | 기획 / 디자인 / Frontend / Backend | e2guana   |
 | FE      | 김예나 | 디자인 / Frontend     | kimyena123 |
-| BE      | 김민수 | Frontend     | betts |
+| BE      | 김민수 | Backend     | betts |
 | BE      | 박준형 | Backend      | junhyung29 |
-| BE / AI | 이재현 | AI           | LEEJH2003 |
+| BE / AI | 이재현 | Backend/ AI           | LEEJH2003 |
 
 ---
 
